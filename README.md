@@ -1,1 +1,1 @@
-# IEEEQuantum_tutorial
+# IEEE Quantum tutorial repository
